@@ -3,7 +3,7 @@ from pygame.locals import *
 from ball import Ball
 
 '''
-Having fun...
+changing somewhere else
 '''
 
 screen_width = 640

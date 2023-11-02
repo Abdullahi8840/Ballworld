@@ -2,6 +2,10 @@ import pygame
 from pygame.locals import *
 from ball import Ball
 
+'''
+Having fun...
+'''
+
 screen_width = 640
 screen_height = 480
 frame_rate = 60
